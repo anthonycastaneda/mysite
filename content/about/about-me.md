@@ -6,4 +6,4 @@ draft = false
 
 ## Anthony Castañeda
 
-![portrait](/static/img/PixelAnthony.png)
+![portrait](/img/PixelAnthony.png)
